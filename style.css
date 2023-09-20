@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    
+
+}
+body{
+    background-color: rgba(100, 148, 150, 0.4);
+}
+.head{
+  display: inline-block;
+    text-align: center;
+
+}
+/*.nav {
+    display: inline-block;
+}*/
+.nav{
+    font-size: 2rem;
+    display: inline-block;
+    float: right;
+    padding: 5px 5px;
+    
+}
+.head1{
+    background-color: blueviolet;
+    padding: 20px;
+}
+.main {
+    text-align: center;
+    margin: 20px auto 10px;
+    font-style: oblique;
+    color: rgb(175, 3, 152);
+}
+.para{
+    text-align: center;
+    margin: 0px;
+}
+.img{
+    text-align: center;
+    margin: 10px;
+    background-color:sandybrown;
+    padding: 5px;
+}
+.legend{
+    text-align: center;
+    font-size: 1.5rem;
+    color: rgb(175, 3, 152);
+}
+.para2{
+    background-color: aqua;
+    text-align: justify;
+    margin: 10px;
+    
+}
+footer{
+    text-align: center;
+    margin: 5px;
+    font-size: 1rem;
+    color:brown;
+}
